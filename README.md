@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Rajveer
 
-<!--
-**RajveerSingh-24/RajveerSingh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | 🚀 Building Real-World Projects  
+🧠 Learning AI, ML & Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Blockchain File System GUI
+- Fake News Detection (ML)
+- Heart Attack Prediction Model
+
+---
+
+## ⚙️ Tech Stack
+Java | Python | React | SQL | ML
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=RajveerSingh-24&show_icons=true)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI+Enthusiast;Problem+Solver)

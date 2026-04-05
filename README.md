@@ -1,4 +1,5 @@
-# Hi 👋, I'm Rajveer
+# Hi 👋, I'm Rajveer 
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI+Enthusiast;Problem+Solver)
 
 💻 CSE Student | 🚀 Building Real-World Projects  
 🧠 Learning AI, ML & Systems  
@@ -18,5 +19,4 @@ Java | Python | React | SQL | ML
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=RajveerSingh-24&show_icons=true)
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI+Enthusiast;Problem+Solver)
+

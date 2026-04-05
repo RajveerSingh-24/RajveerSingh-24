@@ -29,8 +29,9 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajveerSingh-24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=RajveerSingh-24&theme=react-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RajveerSingh-24&icon=5&color=0)](https://visitcount.itsvg.in)

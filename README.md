@@ -1,5 +1,7 @@
+<div align="center">
 # Hi 👋, I'm Rajveer Singh
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI/ML+Enthusiast;Full-Stack+Developer)
+</div>
 
 # 💫 About Me:
 🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, React & SQL  <br>🎯 Always learning, always improving  

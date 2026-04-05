@@ -28,7 +28,3 @@
 ![Streak](https://streak-stats.demolab.com?user=RajveerSingh-24&theme=radical&hide_border=false)
 
 </div>
-
-## 🐍 Contribution Snake
-
-![Snake](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/snake.svg)

@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveer-singh01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.work24@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveer-singh01) [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:rajveer.work24@gmail.com) 
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rajveer_singhspm/)
 
 </div>
@@ -29,5 +29,6 @@
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=RajveerSingh-24&icon=5&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/github-contribution-grid-snake.svg)

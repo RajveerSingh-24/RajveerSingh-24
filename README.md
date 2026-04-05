@@ -31,4 +31,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/snake.svg)

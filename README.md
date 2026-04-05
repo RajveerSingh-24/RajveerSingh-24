@@ -1,7 +1,13 @@
 <div align="center">
 
 # Hi 👋, I'm Rajveer Singh
+
+</div>
+
+<div align="center">
+  
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI/ML+Enthusiast;Full-Stack+Developer)
+
 </div>
 
 # 💫 About Me:

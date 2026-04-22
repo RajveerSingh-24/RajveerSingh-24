@@ -34,7 +34,4 @@
 
 </div>
 
-# Contribution Stats:
-![Snake animation](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/github-contribution-grid-snake-dark.svg)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)

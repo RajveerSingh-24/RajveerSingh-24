@@ -1,5 +1,12 @@
-# Hi 👋, I'm Rajveer Singh
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;AI/ML+Enthusiast;Full-Stack+Developer)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Rajveer%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20and%20ideas%20into%20code&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+%F0%9F%A7%A0;Open+to+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=RajveerSingh-24&style=flat-square&color=58a6ff&label=Profile+Views)
+
+</div>
 
 # 💫 About Me:
 🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, React & SQL  <br>🎯 Always learning, always improving  
@@ -28,4 +35,8 @@
 ![Streak](https://streak-stats.demolab.com?user=RajveerSingh-24&theme=radical&hide_border=false)
 
 </div>
-<div></div>
+
+# Contribution Stats:
+![Snake animation](https://github.com/RajveerSingh-24/RajveerSingh-24/blob/output/github-contribution-grid-snake-dark.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)

@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+%F0%9F%A7%A0;Open+to+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RajveerSingh-24&style=flat-square&color=58a6ff&label=Profile+Views)
-
 </div>
 
 # 💫 About Me:

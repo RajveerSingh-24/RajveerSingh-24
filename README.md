@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+%F0%9F%A7%A0;Open+to+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
+<img width="50%" align="right" alt="Robot GIF" src="Nft Coding GIF.gif" />
 # 💫 About Me:
 🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, JavaScript & SQL  <br>🎯 Always learning, always improving  
 

@@ -15,7 +15,7 @@
 </div>
 
 # 💫 About Me:
-🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, React & SQL  <br>🎯 Always learning, always improving  
+🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, JavaScript & SQL  <br>🎯 Always learning, always improving  
 
 <div align="center">
   

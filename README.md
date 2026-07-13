@@ -20,9 +20,10 @@
 🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, JavaScript & SQL  <br>🎯 Always learning, always improving  <br>
 
 <br><br>
+
 <div align="center">
   
-## 🌐 Socials:
+# 🌐 Socials:
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveer-singh01) [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:rajveer.work24@gmail.com) 

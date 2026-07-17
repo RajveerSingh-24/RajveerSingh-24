@@ -17,7 +17,7 @@
 # 💫 About Me:
 
 <img width="18%" height="35%" align="right" alt="Robot GIF" src="Coding Locked In GIF by Alliance.gif" />
-🎓 3rd Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, JavaScript & SQL  <br>🎯 Always learning, always improving  <br>
+🎓 Final Year CSE (AI & ML) Student  <br>🚀 Passionate about building real-world tech solutions  <br>🧠 Exploring Machine Learning, AI & System Design  <br>⚙️ Skilled in Java, Python, JavaScript & SQL  <br>🎯 Always learning, always improving  <br>
 
 <br><br>
 
